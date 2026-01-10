@@ -2,12 +2,12 @@
   "name": "web-server",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "backend": "nodemon src/server.js",
     "frontend": "browser-sync start --proxy localhost:3000 --files public/**/*",
-    "start": "node src/app.js"
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "",
