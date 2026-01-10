@@ -38,7 +38,7 @@ In this project I use **API integration, dynamic UI updates, and search function
 
 ## Installation & Usage
 
-1. git clone git@github.com:YourUsername/MatchFlix.git
+1. git clone git@github.com:MassowNdiaye/MatchFilx-Similar-Movie.git
 
 2. npm install
 
